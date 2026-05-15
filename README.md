@@ -1,4 +1,4 @@
-# Mol-Morpher
+# DISSECT
 
 Molecule morphing using RDKit.
 
